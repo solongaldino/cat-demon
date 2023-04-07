@@ -21,7 +21,9 @@ void (async () => {
       console.log("Observa tudo e não faz nada");
       console.log("Caga todo dia no quartinho");
     } else {
-      console.log("Digite o nome do gato por favor!");
+      console.log(
+        "Digite o nome do gato por favor - rochele, kiara, fofito, lana"
+      );
     }
 
     console.log("[ END ]");
