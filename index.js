@@ -22,7 +22,7 @@ void (async () => {
       console.log("Caga todo dia no quartinho");
     } else {
       console.log(
-        "Digite o nome do gato por favor - rochele, kiara, fofito, lana"
+        `Digite o nome do gato como parametro ex: "node index.js lana" - rochele, kiara, fofito, lana`
       );
     }
 
